@@ -1,4 +1,4 @@
-# Real Estate NFT DApp
+# Real Estate Using BlockChain Smart Contracts And Non- Fungible Token
 
 ## Technology Stack & Tools
 
